@@ -1,3 +1,8 @@
+This is	annotated tag
+This is	annotated tag
+This is	annotated tag
+This is	annotated tag
+
 this is a test script
 
 this is version 1
